@@ -1,4 +1,4 @@
-# Hey, I'm Vatsal! 👋
+# Hi!
 
 ## Interests
 - Machine Learning
