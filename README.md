@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey, I'm Vatsal! 👋
 
-<!--
-**VatsalSivaratri/VatsalSivaratri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Vatsal Sivaratri's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsalsivaratri)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning
+- Bioinformatics
+- Computational Biology
+
+## Languages
+- Python (~3 years)
+- Java (~5 years)
+- HTML/CSS (~1.5 years)
+- ~C++ (~3 monthes)
+
+## Contact
+- Email: [vatsal.sivaratri@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/vatsal-sivaratri-850521229/]
+
