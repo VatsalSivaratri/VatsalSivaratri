@@ -1,8 +1,5 @@
 # Hey, I'm Vatsal! 👋
 
-
-[![Vatsal Sivaratri's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsalsivaratri)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Interests
 - Machine Learning
 - Bioinformatics
